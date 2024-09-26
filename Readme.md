@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush5071" alt="ayush5071" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning,NEXT.js,DSA,DJANGO**
+- 🌱 I’m currently learning **System Design,OS,NEXT.js,DSA**
 
 - 👨‍💻 All of my projects are available at [https://ayush5071.github.io/portifolio/](https://ayush5071.github.io/portifolio/)
 
