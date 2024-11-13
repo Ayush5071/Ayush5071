@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush5071&label=Profile%20views&color=0e75b6&style=flat" alt="ayush5071" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush5071)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayush5071&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
