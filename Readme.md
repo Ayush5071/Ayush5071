@@ -3,8 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush5071&label=Profile%20views&color=0e75b6&style=flat" alt="ayush5071" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush5071" alt="ayush5071" /></a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush5071&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+<!-- GitHub Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush5071&langs_count=10&theme=radical&layout=compact" alt="Top Languages" />
+</p>
 - 🌱 I’m currently learning **System Design,OS,NEXT.js,DSA**
 
 - 👨‍💻 All of my projects are available at [https://ayush5071.github.io/portifolio/](https://ayush5071.github.io/portifolio/)
