@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **System Design,OS,NEXT.js,DSA**
 
-- 👨‍💻 All of my projects are available at [https://ayush5071.github.io/portifolio/](https://ayush5071.github.io/portifolio/)
+- 👨‍💻 All of my projects are available at [https://ayush5071.github.io/portifolio/](https://ayush-delta.vercel.app/)
 
-- 💬 Ask me about **fullstack development and machine learning**
+- 💬 Ask me about **fullstack development**
 
-- 📫 How to reach me **ayusht5071@gmail.com**
+- 📫 How to reach me **ayush.20234046@mnnit.ac.in**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ayush-tiwari-84a823281/](https://www.linkedin.com/in/ayush-tiwari-84a823281/)
 
